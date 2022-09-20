@@ -23,6 +23,9 @@ Now you can open Cypress from your project root one of the following ways:
 Using npx
 Note: npx is included with npm > v5.2 or can be installed separately.
 ```sh
+cd /your/project/path
+```
+```sh
 npx cypress open
 ```
 
